@@ -1,3 +1,4 @@
+# There was a small discrepancy I had noticed when reading the task description - see the readme file, please
 # I am going to use the pandas module to open the .xlsx file
 import pandas
 df = pandas.read_excel("WSC Input.xlsx")
